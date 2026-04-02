@@ -1,1 +1,1 @@
-"# NGO-PROJECT" 
+A web-based management system for NGOs to track donors, donations, project fund allocations, and expenses transparently. Features a public dashboard with live charts, a donor login portal where donors can view where their money went and download PDF receipts, an admin panel for managing all records, and an audit log for tracking all admin actions. Built with HTML/CSS/JS frontend, Node.js + Express backend, and PostgreSQL database.
